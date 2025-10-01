@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    background-image: url("bgi.jpg");
+    background-size: cover;  
+    background-repeat: no-repeat;
+    background-position: center; 
+
+}
+h1{
+    color:red;
+}
+h2{
+    color: aliceblue;
+}
